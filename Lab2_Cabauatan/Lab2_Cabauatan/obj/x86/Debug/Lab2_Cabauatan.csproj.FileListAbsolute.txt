@@ -1,0 +1,6 @@
+C:\Users\keiths09\AppData\Local\Temporary Projects\Lab2_Cabauatan\bin\Debug\Lab2_Cabauatan.exe
+C:\Users\keiths09\AppData\Local\Temporary Projects\Lab2_Cabauatan\bin\Debug\Lab2_Cabauatan.pdb
+C:\Users\keiths09\AppData\Local\Temporary Projects\Lab2_Cabauatan\obj\x86\Debug\Lab2_Cabauatan.exe
+C:\Users\keiths09\AppData\Local\Temporary Projects\Lab2_Cabauatan\obj\x86\Debug\Lab2_Cabauatan.pdb
+C:\Users\keiths09\Documents\Visual Studio 2010\Projects\Lab2_Cabauatan\Lab2_Cabauatan\obj\x86\Debug\Lab2_Cabauatan.exe
+C:\Users\keiths09\Documents\Visual Studio 2010\Projects\Lab2_Cabauatan\Lab2_Cabauatan\obj\x86\Debug\Lab2_Cabauatan.pdb
